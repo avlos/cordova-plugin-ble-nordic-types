@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-ble-nordic-types",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avlos/cordova-plugin-ble-nordic-types.git"
+  },
+  "author": "shamangeorge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avlos/cordova-plugin-ble-nordic-types/issues"
+  },
+  "homepage": "https://github.com/avlos/cordova-plugin-ble-nordic-types#readme"
+}
